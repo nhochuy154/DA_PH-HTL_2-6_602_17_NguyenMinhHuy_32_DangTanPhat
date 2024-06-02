@@ -1,0 +1,4 @@
+﻿a,expected
+1,"Đây không phải số nguyên tố"
+2,"Đây là số nguyên tố"
+-2,"Vui lòng nhập số lớn hơn 0"

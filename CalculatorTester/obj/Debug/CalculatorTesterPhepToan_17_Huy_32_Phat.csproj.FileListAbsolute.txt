@@ -1,0 +1,38 @@
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\CalculatorTester.dll
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\CalculatorTester.pdb
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\Calculator.exe
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\Calculator.pdb
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\Calculator.exe.config
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Phát\Bai hoc\Calculator\CalculatorTester\obj\Debug\CalculatorTesterPhepToan_17_Huy_32_Phat.csproj.AssemblyReference.cache
+D:\Phát\Bai hoc\Calculator\CalculatorTester\obj\Debug\CalculatorTesterPhepToan_17_Huy_32_Phat.csproj.CoreCompileInputs.cache
+D:\Phát\Bai hoc\Calculator\CalculatorTester\obj\Debug\Calculat.EBB8702C.Up2Date
+D:\Phát\Bai hoc\Calculator\CalculatorTester\obj\Debug\CalculatorTester.dll
+D:\Phát\Bai hoc\Calculator\CalculatorTester\obj\Debug\CalculatorTester.pdb
+D:\Phát\Bai hoc\Calculator\CalculatorTester\bin\Debug\Data\TestData.csv
+E:\1\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\1\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\1\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\1\Calculator\CalculatorTester\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\1\Calculator\CalculatorTester\bin\Debug\Data\TestData.csv
+E:\1\Calculator\CalculatorTester\bin\Debug\CalculatorTester.dll
+E:\1\Calculator\CalculatorTester\bin\Debug\CalculatorTester.pdb
+E:\1\Calculator\CalculatorTester\bin\Debug\Calculator.exe
+E:\1\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\1\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\1\Calculator\CalculatorTester\bin\Debug\Calculator.pdb
+E:\1\Calculator\CalculatorTester\bin\Debug\Calculator.exe.config
+E:\1\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\1\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\1\Calculator\CalculatorTester\obj\Debug\CalculatorTesterPhepToan_17_Huy_32_Phat.csproj.AssemblyReference.cache
+E:\1\Calculator\CalculatorTester\obj\Debug\CalculatorTesterPhepToan_17_Huy_32_Phat.csproj.CoreCompileInputs.cache
+E:\1\Calculator\CalculatorTester\obj\Debug\Calculat.EBB8702C.Up2Date
+E:\1\Calculator\CalculatorTester\obj\Debug\CalculatorTester.dll
+E:\1\Calculator\CalculatorTester\obj\Debug\CalculatorTester.pdb

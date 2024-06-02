@@ -1,0 +1,10 @@
+D:\Phát\Bai hoc\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Phát\Bai hoc\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Phát\Bai hoc\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Nunit_17_Huy_32_Phat.csproj.AssemblyReference.cache
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Nunit_17_Huy_32_Phat.Form1.resources
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Nunit_17_Huy_32_Phat.csproj.GenerateResource.cache
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Nunit_17_Huy_32_Phat.csproj.CoreCompileInputs.cache
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,20 @@
+E:\KiemThu\Code\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\KiemThu\Code\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\KiemThu\Code\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\KiemThu\Code\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\KiemThu\Code\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\KiemThu\Code\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\KiemThu\Code\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\KiemThu\Code\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\KiemThu\Code\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\KiemThu\Code\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Phát\Bai hoc\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Phát\Bai hoc\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Phát\Bai hoc\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Phát\Bai hoc\Calculator\Calculator\obj\Debug\Calculator.pdb

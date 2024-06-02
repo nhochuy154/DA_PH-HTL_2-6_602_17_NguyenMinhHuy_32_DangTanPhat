@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\1\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E474648-2652-43FE-8DD6-FDF60D1646C3}|TestcaseWebdriver_17_Huy_32_Phat\\TestcaseWebdriver_17_Huy_32_Phat.csproj|e:\\1\\calculator\\testcasewebdriver_17_huy_32_phat\\testwebdriver_17_32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E474648-2652-43FE-8DD6-FDF60D1646C3}|TestcaseWebdriver_17_Huy_32_Phat\\TestcaseWebdriver_17_Huy_32_Phat.csproj|solutionrelative:testcasewebdriver_17_huy_32_phat\\testwebdriver_17_32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C885CCE-0F82-4C03-A4ED-F1901351CB33}|CalculatorTester\\CalculatorTesterPhepToan_17_Huy_32_Phat.csproj|E:\\1\\Calculator\\calculatortester\\testpheptoan_17_huy_32_phat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C885CCE-0F82-4C03-A4ED-F1901351CB33}|CalculatorTester\\CalculatorTesterPhepToan_17_Huy_32_Phat.csproj|solutionrelative:calculatortester\\testpheptoan_17_huy_32_phat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866AE207-D73C-46DE-A121-8EF0E3E488CF}|Webdriver_17_Huy_32_Phat\\Webdriver_17_Huy_32_Phat.csproj|e:\\1\\calculator\\webdriver_17_huy_32_phat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866AE207-D73C-46DE-A121-8EF0E3E488CF}|Webdriver_17_Huy_32_Phat\\Webdriver_17_Huy_32_Phat.csproj|solutionrelative:webdriver_17_huy_32_phat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866AE207-D73C-46DE-A121-8EF0E3E488CF}|Webdriver_17_Huy_32_Phat\\Webdriver_17_Huy_32_Phat.csproj|e:\\1\\calculator\\webdriver_17_huy_32_phat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866AE207-D73C-46DE-A121-8EF0E3E488CF}|Webdriver_17_Huy_32_Phat\\Webdriver_17_Huy_32_Phat.csproj|solutionrelative:webdriver_17_huy_32_phat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087545A6-9C4F-45B4-B3F5-A5C76FA68946}|Calculator\\Nunit_17_Huy_32_Phat.csproj|e:\\1\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087545A6-9C4F-45B4-B3F5-A5C76FA68946}|Calculator\\Nunit_17_Huy_32_Phat.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087545A6-9C4F-45B4-B3F5-A5C76FA68946}|Calculator\\Nunit_17_Huy_32_Phat.csproj|E:\\1\\Calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{087545A6-9C4F-45B4-B3F5-A5C76FA68946}|Calculator\\Nunit_17_Huy_32_Phat.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C885CCE-0F82-4C03-A4ED-F1901351CB33}|CalculatorTester\\CalculatorTesterPhepToan_17_Huy_32_Phat.csproj|E:\\1\\Calculator\\calculatortester\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C885CCE-0F82-4C03-A4ED-F1901351CB33}|CalculatorTester\\CalculatorTesterPhepToan_17_Huy_32_Phat.csproj|solutionrelative:calculatortester\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087545A6-9C4F-45B4-B3F5-A5C76FA68946}|Calculator\\Nunit_17_Huy_32_Phat.csproj|E:\\1\\Calculator\\calculator\\calculation_17_32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087545A6-9C4F-45B4-B3F5-A5C76FA68946}|Calculator\\Nunit_17_Huy_32_Phat.csproj|solutionrelative:calculator\\calculation_17_32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestWebdriver_17_32.cs",
+              "DocumentMoniker": "E:\\1\\Calculator\\TestcaseWebdriver_17_Huy_32_Phat\\TestWebdriver_17_32.cs",
+              "RelativeDocumentMoniker": "TestcaseWebdriver_17_Huy_32_Phat\\TestWebdriver_17_32.cs",
+              "ToolTip": "E:\\1\\Calculator\\TestcaseWebdriver_17_Huy_32_Phat\\TestWebdriver_17_32.cs",
+              "RelativeToolTip": "TestcaseWebdriver_17_Huy_32_Phat\\TestWebdriver_17_32.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T01:38:34.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\1\\Calculator\\Webdriver_17_Huy_32_Phat\\Form1.cs",
+              "RelativeDocumentMoniker": "Webdriver_17_Huy_32_Phat\\Form1.cs",
+              "ToolTip": "E:\\1\\Calculator\\Webdriver_17_Huy_32_Phat\\Form1.cs",
+              "RelativeToolTip": "Webdriver_17_Huy_32_Phat\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T01:37:04.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\1\\Calculator\\Webdriver_17_Huy_32_Phat\\Form1.cs",
+              "RelativeDocumentMoniker": "Webdriver_17_Huy_32_Phat\\Form1.cs",
+              "ToolTip": "E:\\1\\Calculator\\Webdriver_17_Huy_32_Phat\\Form1.cs [Design]",
+              "RelativeToolTip": "Webdriver_17_Huy_32_Phat\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T01:35:52.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "E:\\1\\Calculator\\CalculatorTester\\Data\\TestData.csv",
+              "RelativeDocumentMoniker": "CalculatorTester\\Data\\TestData.csv",
+              "ToolTip": "E:\\1\\Calculator\\CalculatorTester\\Data\\TestData.csv",
+              "RelativeToolTip": "CalculatorTester\\Data\\TestData.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-06-01T10:04:26.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\1\\Calculator\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "E:\\1\\Calculator\\Calculator\\Form1.cs",
+              "RelativeToolTip": "Calculator\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowHYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:02:20.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\1\\Calculator\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "E:\\1\\Calculator\\Calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:19:05.477Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculation_17_32.cs",
+              "DocumentMoniker": "E:\\1\\Calculator\\Calculator\\Calculation_17_32.cs",
+              "RelativeDocumentMoniker": "Calculator\\Calculation_17_32.cs",
+              "ToolTip": "E:\\1\\Calculator\\Calculator\\Calculation_17_32.cs",
+              "RelativeToolTip": "Calculator\\Calculation_17_32.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:18:53.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Testpheptoan_17_Huy_32_Phat.cs",
+              "DocumentMoniker": "E:\\1\\Calculator\\CalculatorTester\\Testpheptoan_17_Huy_32_Phat.cs",
+              "RelativeDocumentMoniker": "CalculatorTester\\Testpheptoan_17_Huy_32_Phat.cs",
+              "ToolTip": "E:\\1\\Calculator\\CalculatorTester\\Testpheptoan_17_Huy_32_Phat.cs",
+              "RelativeToolTip": "CalculatorTester\\Testpheptoan_17_Huy_32_Phat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:59:02.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

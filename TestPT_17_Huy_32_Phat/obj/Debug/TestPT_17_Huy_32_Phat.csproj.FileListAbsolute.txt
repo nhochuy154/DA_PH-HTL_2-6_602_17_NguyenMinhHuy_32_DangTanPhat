@@ -1,0 +1,36 @@
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\TestPT_17_Huy_32_Phat.dll
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\TestPT_17_Huy_32_Phat.pdb
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Calculator.exe
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Calculator.pdb
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Calculator.exe.config
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\obj\Debug\TestPT_17_Huy_32_Phat.csproj.AssemblyReference.cache
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\obj\Debug\TestPT_17_Huy_32_Phat.csproj.CoreCompileInputs.cache
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\obj\Debug\TestPT_1.7A387ADF.Up2Date
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\obj\Debug\TestPT_17_Huy_32_Phat.dll
+E:\KiemThu\code\Calculator\TestPT_17_Huy_32_Phat\obj\Debug\TestPT_17_Huy_32_Phat.pdb
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\TestPT_17_Huy_32_Phat.dll
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\TestPT_17_Huy_32_Phat.pdb
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Calculator.exe
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Calculator.pdb
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Calculator.exe.config
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\obj\Debug\TestPT_17_Huy_32_Phat.csproj.AssemblyReference.cache
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\obj\Debug\TestPT_17_Huy_32_Phat.csproj.CoreCompileInputs.cache
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\obj\Debug\TestPT_1.7A387ADF.Up2Date
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\obj\Debug\TestPT_17_Huy_32_Phat.dll
+D:\Phát\Bai hoc\Calculator\TestPT_17_Huy_32_Phat\obj\Debug\TestPT_17_Huy_32_Phat.pdb

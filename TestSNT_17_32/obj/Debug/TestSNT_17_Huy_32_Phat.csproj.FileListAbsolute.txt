@@ -1,0 +1,38 @@
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\TestSNT_17_32.dll
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\TestSNT_17_32.pdb
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\Calculator.exe
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\Calculator.pdb
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\Calculator.exe.config
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\obj\Debug\TestSNT_17_Huy_32_Phat.csproj.AssemblyReference.cache
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\obj\Debug\TestSNT_17_Huy_32_Phat.csproj.CoreCompileInputs.cache
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\obj\Debug\TestSNT_.F8F40D71.Up2Date
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\obj\Debug\TestSNT_17_32.dll
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\obj\Debug\TestSNT_17_32.pdb
+D:\Phát\Bai hoc\Calculator\TestSNT_17_32\bin\Debug\Data\TestData.csv
+E:\1\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\1\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\1\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\1\Calculator\TestSNT_17_32\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\1\Calculator\TestSNT_17_32\bin\Debug\Data\TestData.csv
+E:\1\Calculator\TestSNT_17_32\bin\Debug\TestSNT_17_32.dll
+E:\1\Calculator\TestSNT_17_32\bin\Debug\TestSNT_17_32.pdb
+E:\1\Calculator\TestSNT_17_32\bin\Debug\Calculator.exe
+E:\1\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\1\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\1\Calculator\TestSNT_17_32\bin\Debug\Calculator.pdb
+E:\1\Calculator\TestSNT_17_32\bin\Debug\Calculator.exe.config
+E:\1\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\1\Calculator\TestSNT_17_32\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\1\Calculator\TestSNT_17_32\obj\Debug\TestSNT_17_Huy_32_Phat.csproj.AssemblyReference.cache
+E:\1\Calculator\TestSNT_17_32\obj\Debug\TestSNT_17_Huy_32_Phat.csproj.CoreCompileInputs.cache
+E:\1\Calculator\TestSNT_17_32\obj\Debug\TestSNT_.F8F40D71.Up2Date
+E:\1\Calculator\TestSNT_17_32\obj\Debug\TestSNT_17_32.dll
+E:\1\Calculator\TestSNT_17_32\obj\Debug\TestSNT_17_32.pdb
